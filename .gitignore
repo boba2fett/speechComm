@@ -142,6 +142,7 @@ bin/
 include/
 share/
 pyenv.cfg
+pyvenv.cfg
 lib/
 lib64
 lib64/
